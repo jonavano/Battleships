@@ -1,4 +1,12 @@
 # -
 Battleships but with react!!
 
-To start off run npm install on both the server folder and the battleshipsweb
+In Server run:
+
+    - npm install
+    - expo install
+
+In battleshipsweb run: 
+
+    - npm install
+    - npm install react-router-dom
