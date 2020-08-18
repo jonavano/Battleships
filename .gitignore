@@ -1,2 +1,4 @@
 Server/node_modules/**/*
 WebApp/battleshipsweb/node_modules/**/*
+*.code-workspace
+package-lock.json
