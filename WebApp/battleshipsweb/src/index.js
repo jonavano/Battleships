@@ -5,16 +5,16 @@ import './index.css';
 import {
   BrowserRouter as Router,
   Route,
-  Switch,
-  Link,
-  Redirect
+  // Switch,
+  // Link,
+  // Redirect
 } from "react-router-dom";
 
 import MainPage from './main_page';
 import UsersPage from './Users';
 import NotFound from './404';
 
-import App from './App';
+// import App from './App';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
